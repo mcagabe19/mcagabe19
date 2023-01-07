@@ -1,3 +1,6 @@
+# NOTE
+My ports moved into [here](https://github.com/orgs/MobilePorting/repositories) and there some repos my friends doed or doing xd
+
 ## Hi! i'm lazy coder and optimizer (if i bored xd) and nothing bye
 ### My discord: mcagabe19#3764 (pls dont ask stupid questions)
 
