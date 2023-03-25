@@ -1,6 +1,6 @@
 # NOTE
 - My ports moved into [here](https://github.com/orgs/MobilePorting/repositories) and there some repos my friends doed or doing xd
-- also my stuff moved into [here](https://github.com/mcagabe19-stuff) too
+- also my stuff moved into [here](https://github.com/orgs/mcagabe19-stuff/repositories) too
 
 ## Hi! i'm lazy coder and optimizer (if i bored xd), pansexual 🏳️‍🌈, tritanomaly colorblind 🥲 and nothing bye
 ### My discord: mcagabe19#1187 (pls dont ask stupid questions)
