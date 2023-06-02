@@ -1,9 +1,26 @@
-# NOTE
-- My ports moved into [here](https://github.com/orgs/MobilePorting/repositories) and there some repos my friends did or doing xd
-- also my stuff moved into [here](https://github.com/orgs/mcagabe19-stuff/repositories) too
+# NOTE!!
+* My ports moved into [here](https://github.com/orgs/MobilePorting/repositories) and there some repos my friends did or doing xd
+* also my stuff moved into [here](https://github.com/orgs/mcagabe19-stuff/repositories) too
 
-## Hi! I'm lazy coder and optimizer (If I'm bored), Pansexual 🏳️‍🌈, Tritanomaly colorblind 🥲 and nothing bye
-### My discord: mcagabe19#6559 (pls don't ask stupid questions)
+## Hi!! here is my personal info
+* 15 years old lazy coder ([Haxe](https://haxe.org) and [Lua](https://lua.org)), mobile porter and optimizer (If I'm bored)
+* Pansexual 🏳️‍🌈
+* Any pronouns!! (I mostly prefer she/her)
+* Tritanomaly colorblind 🥲 (Seriously It's so bad)
+* I like playing FNF, Roblox and Gacha!! (My beloved)
+* Has autism (Please don't judge me)
+
+## Add me in your discord!! I can try help ya
+* mcagabe19#6559
+
+## My Status
 
 ![](https://github-readme-stats.vercel.app/api?username=mcagabe19&show_icons=true&theme=vue-dark)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mcagabe19&layout=compact&show_icons=true&theme=vue-dark)
+
+## The cool people I know
+* [Hoovy](https://github.com/memehovy) - Best friend (Working at his mod and he helping me alot at irl stuff)
+* [Kamodrip](https://github.com/Akhia11) - Best friend (He loves dave and bambi stuff)
+* [An Undertale Fan](https://github.com/Karim-Akra) - Friend (I've helped him so much lmao)
+* [Sirox](https://github.com/Sirox228) - Friend (He helped me so much at haxe stuff thank you so much!!)
+* [Mihai Alexandru](https://github.com/MAJigsaw77) - Friend (ig?) and sometimes helped in android stuff thanks
