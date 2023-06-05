@@ -3,12 +3,12 @@
 * also my stuff moved into [here](https://github.com/orgs/mcagabe19-stuff/repositories) too
 
 ## Hi!! here is my personal info
-* 15 years old lazy coder ([Haxe](https://haxe.org) and [Lua](https://lua.org)), mobile porter and optimizer (If I'm bored)
+* 15 years old [Haxe](https://haxe.org) and [Lua](https://lua.org) coder, mobile porter and optimizer (If I'm bored)
 * Pansexual 🏳️‍🌈
-* Any pronouns!! (I mostly prefer she/her)
-* Tritanomaly colorblind 🥲 (Seriously It's so bad)
-* I like playing FNF, Roblox and Gacha!! (My beloved)
+* She/her
 * Has autism (Please don't judge me)
+* Tritanomaly colorblind 🥲 (Seriously It's so bad)
+* I like playing FNF,Roblox, Rounds & Gacha!! (My beloved)
 
 ## Add me in your discord!! I can try help ya
 * mcagabe19#6559
