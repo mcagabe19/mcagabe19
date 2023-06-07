@@ -4,7 +4,7 @@
 
 ## Hi!! here is my personal info
 * 15 years old [Haxe](https://haxe.org) and [Lua](https://lua.org) coder, mobile porter and optimizer (If I'm bored)
-* Pansexual 🏳️‍🌈
+* Non-binary, Pansexual 🏳️‍🌈
 * Has autism (Please don't judge me)
 * Tritanomaly colorblind 🥲 (Seriously It's so bad)
 * I like playing FNF,Roblox, Rounds & Gacha!! (My beloved)
