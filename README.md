@@ -14,8 +14,8 @@
 
 ## My Status
 
-![](https://github-readme-stats.vercel.app/api?username=mcagabe19&show_icons=true&theme=vue-dark)
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=mcagabe19&layout=compact&show_icons=true&theme=vue-dark)
+![](https://github-readme-stats.vercel.app/api?username=mcagabe19&show_icons=true&theme=synthwave)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=mcagabe19&layout=compact&show_icons=true&theme=synthwave)
 
 ## The cool people I know
 * [Hoovy](https://github.com/memehovy) - Best friend (Working at his mod and he helping me alot at irl stuff)
