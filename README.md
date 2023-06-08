@@ -13,9 +13,12 @@
 * mcagabe19#6559
 
 ## My Status
-
 ![](https://github-readme-stats.vercel.app/api?username=mcagabe19&show_icons=true&theme=synthwave)
+![](https://github-readme-streak-stats.herokuapp.com/?user=mcagabe19&theme=synthwave&hide_border=false)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=mcagabe19&layout=compact&show_icons=true&theme=synthwave)
+
+## My Trophies
+![](https://github-profile-trophy.vercel.app/?username=mcagabe19&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
 
 ## The cool people I know
 * [Hoovy](https://github.com/memehovy) - Best friend (Working at his mod and he helping me alot at irl stuff)
