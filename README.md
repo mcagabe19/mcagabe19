@@ -10,7 +10,7 @@
 * I like playing FNF,Roblox, Rounds & Gacha!! (My beloved)
 
 ## Add me in your discord!! I can try help ya
-* mcagabe19
+* mc.9
 
 ## My Status
 ![](https://github-readme-stats.vercel.app/api?username=mcagabe19&show_icons=true&theme=synthwave)
