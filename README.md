@@ -3,7 +3,7 @@
 * also my stuff moved into [here](https://github.com/orgs/mcagabe19-stuff/repositories) too
 
 ## Hi!! here is my personal info
-* 15 years old [Haxe](https://haxe.org) and [Lua](https://lua.org) coder, mobile porter and optimizer (If I'm bored)
+* 16 years old [Haxe](https://haxe.org) and [Lua](https://lua.org) coder, mobile porter and optimizer (If I'm bored)
 * Non-binary, Pansexual 🏳️‍🌈
 * Has autism (Please don't judge me)
 * Tritanomaly colorblind 🥲 (Seriously It's so bad)
