@@ -7,7 +7,7 @@
 * Pansexual, Poly 🏳️‍🌈
 * Has autism (Please don't judge me)
 * Tritanomaly colorblind 🥲 (Seriously It's so bad)
-* I like playing FNF,Roblox, Rounds & Gacha!! (My beloved)
+* I like playing FNF, Roblox, Rounds & Gacha!! (My beloved)
 
 ## Add me in your discord!! I can try help ya
 * mc.9
