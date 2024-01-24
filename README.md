@@ -3,7 +3,7 @@
 * also my stuff moved into [here](https://github.com/orgs/mcagabe19-stuff/repositories) too
 
 ## Hi!! here is my personal info
-![Pronouns.page Card](https://pronouns-page.s3.eu-west-1.amazonaws.com/card/en/mcagabe19-01HMYE8R30MS0N67T5MDVV878Y-dark.png)
+![Pronouns.page Card](https://pronouns-page.s3.eu-west-1.amazonaws.com/card/en/mcagabe19-01HMYESKWDTDG3EHZFD4DSQ7RJ-dark.png)
 
 ## Add me in your discord!! I can try help ya
 * mc.9
