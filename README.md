@@ -3,15 +3,11 @@
 * also my stuff moved into [here](https://github.com/orgs/mcagabe19-stuff/repositories) too
 
 ## Hi!! here is my personal info
-* 16 years old [Haxe](https://haxe.org) and [Lua](https://lua.org) coder, mobile porter and optimizer (If I'm bored)
-* Trans (TRANS RIGHTS ARE HUMAN RIGHTS 🏳️‍⚧️🏳️‍⚧️🏳️‍⚧️) and Multi-Fandom
-* Has autism (Please don't judge me)
-* Tritanomaly colorblind 🥲 (Seriously It's so bad)
-* I like playing FNF, Roblox, Rounds & Gacha!! (My beloved)
+![Pronouns.page Card](https://pronouns-page.s3.eu-west-1.amazonaws.com/card/en/mcagabe19-01HMYE8R30MS0N67T5MDVV878Y-dark.png)
 
 ## Add me in your discord!! I can try help ya
 * mc.9
-* ~~azumangaa~~
+* ~~mcagabe19~~
 
 ## My Status
 ![](https://github-readme-stats.vercel.app/api?username=mcagabe19&show_icons=true&theme=synthwave)
