@@ -1,3 +1,5 @@
+![Funny Counter](https://count.getloli.com/get/@mcagabe19.github.readme?theme=rule34)
+
 # NOTE!!
 * My ports moved into [here](https://github.com/orgs/MobilePorting/repositories) and there some repos my friends did or doing xd
 * also my stuff moved into [here](https://github.com/orgs/mcagabe19-stuff/repositories) too
