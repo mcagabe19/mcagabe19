@@ -1,11 +1,7 @@
 ![Funny Counter](https://count.getloli.com/get/@mcagabe19.github.readme?theme=rule34)
 
-# NOTE!!
-* My ports moved into [here](https://github.com/orgs/MobilePorting/repositories) and there some repos my friends did or doing xd
-* also my stuff moved into [here](https://github.com/orgs/mcagabe19-stuff/repositories) too
-
 ## Hi!! here is my personal info
-![Pronouns.page Card](https://pronouns-page.s3.eu-west-1.amazonaws.com/card/en/mcagabe19-01HV5WV4361ZZZNTBG8RPN35MF-dark.png)
+![Pronouns.page Card](https://pronouns-page.s3.eu-west-1.amazonaws.com/card/en/mcagabe19-01HVMGYWZ4ZEF48XHQBM221SS6-dark.png)
 
 ## Add me in your discord!! I can try help ya
 * mc.9
@@ -18,10 +14,3 @@
 
 ## My Trophies
 ![](https://github-profile-trophy.vercel.app/?username=mcagabe19&theme=dracula&no-frame=false&no-bg=true&margin-w=4)
-
-## The cool people I know
-* [Moxie](https://github.com/moxie-coder) - My Bestie and helped him in [VS Null](https://gamebanana.com/mods/447674)
-* [Karim](https://github.com/Karim-Akra) - My BF and helping him in mobile stuff
-* [Sirox](https://github.com/Sirox228) - Friend and helped me in haxe stuff
-* [Mihai Alexandru](https://github.com/MAJigsaw77) - Friend (ig?) and sometimes helped in android stuff
-* [UNSTOP4BLE](https://github.com/UNSTOP4BLE) - Friend and helped me at iOS stuff
