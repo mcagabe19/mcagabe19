@@ -4,7 +4,7 @@
 * Ports moved into [here](https://github.com/orgs/MobilePorting/repositories) and my stuff moved into [here](https://github.com/orgs/mcagabe19-stuff/repositories).
 
 ## Hi!! here is my personal info
-![Pronouns.page Card](https://pronouns-page.s3.eu-west-1.amazonaws.com/card/en/mcagabe19-01HVMGYWZ4ZEF48XHQBM221SS6-dark.png)
+[![Pronouns.page Card](https://pronouns-page.s3.eu-west-1.amazonaws.com/card/en/mcagabe19-01HX6NCNYRKJ6M5AMNQTP02SM4-dark.png)](https://en.pronouns.page/@mcagabe19)
 
 ## Add me in your discord!! I can try help ya
 * mc.9
