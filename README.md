@@ -4,8 +4,10 @@
 [![Pronouns.page Card](https://pronouns-page.s3.eu-west-1.amazonaws.com/card/en/mcagabe19-01JH448PSKZ9GREGWE6YGB042D-dark.png)](https://en.pronouns.page/@mcagabe19)
 
 ## Add me in your discord!! I can try help ya
-* mc.9
+* ~~mc.9~~
 * ~~mcagabe19~~
+
+**NO.**
 
 ## My Status
 ![](https://github-readme-stats.vercel.app/api?username=mcagabe19&show_icons=true&theme=synthwave)
